@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player
+public enum PlayerId
 {
-    public PlayerId Id;
+    p1,
+    p2
 }
